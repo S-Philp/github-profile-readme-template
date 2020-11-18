@@ -13,34 +13,32 @@ A template for adding and updating a personal readme page for your github! Be su
 - The links above the stats card at the bottom just need your own personal URL to direct to your pages. 
 
 ## Qustions or Issues
-For questions or issues open a new issue by [CLICKING HERE!](https://github.com/NathanNOSudo/github-profile-readme-template/issues/new/choose)
+For questions or issues open a new issue by [CLICKING HERE!](https://github.com/S-Philp/github-profile-readme-template/issues/new/choose)
 Alternativley click issues at the top of the page and then select new issue on the right side of the page.
 **Please check if your issue or question was asked prior to submiting and please feel free to reach out to me on slack, message me via my portfolio, or Linkedin.**
 
-<h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
-<h3 align="center">A passionate Full-Stack developer from "Hometown"</h3>
+<h1 align="center">Hi 👋, I'm Shannel Philp!</h1>
+<h3 align="center">A passionate Full-Stack developer from Houston.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathannosudo&label=Profile%20views&color=0e75b6&style=flat" alt="nathannosudo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo" alt="nathannosudo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="S-Philp" alt="S-Philp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nosudo_" target="blank"><img src="https://img.shields.io/twitter/follow/nosudo_?logo=twitter&style=for-the-badge" alt="nosudo_" /></a> </p>
-
-- 🔭 I’m currently working on ["project name"](https://code-blooded-dev.surge.sh)
+- 🔭 I’m currently working on ["project name"](url link)
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
-- 👯 I’m looking to collaborate on ["project name"](https://code-blooded-dev.surge.sh)
+- 👯 I’m looking to collaborate on ["project name"](url link)
 
-- 🤝 I’m looking for help with ["project name"](https://code-blooded-dev.surge.sh)
+- 🤝 I’m looking for help with ["project name"](url link)
 
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
+- 👨‍💻 All of my projects are available at [Link TO Portfolio](url link)
 
-- 📝 I regulary write articles on [Link TO Blog](Link TO Blog)
+- 📝 I regulary write articles on [Link TO Blog](url link)
 
-- 💬 Ask me about **"skills you are confident in"**
+- 💬 Ask me about **"HTML, CSS"**
 
-- 📫 How to reach me **example@NathansTheBomb.com**
+- 📫 How to reach me **email**
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume)
 
